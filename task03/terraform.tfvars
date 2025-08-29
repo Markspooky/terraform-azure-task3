@@ -1,0 +1,6 @@
+rg_name           = "cmaz-zz733vvq-mod3-rg"
+storageaccount_name = "cmazzz733vvqsa"
+vnet_name         = "cmaz-zz733vvq-mod3-vnet"
+subnet1_name      = "frontend"
+subnet2_name      = "backend"
+creator_email     = "mark_nagy@epam.com"
