@@ -1,6 +1,6 @@
 resource "azurerm_resource_group" "rg" {
   name     = var.rg_name
-  location = "East US" # vagy az előfizetésednek megfelelő régió
+  location = "East US"
 
   tags = {
     Creator = var.creator_email
